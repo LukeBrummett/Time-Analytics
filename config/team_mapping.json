@@ -1,0 +1,83 @@
+{
+  "teams": {
+    "Team Acadia": [
+      "Emily Newby",
+      "Jacob Sharp",
+      "Joy Rock",
+      "Lamont Riggs",
+      "Lexi Ragsdale",
+      "Tanaka Ngwanga",
+      "Thomas Wickliffe",
+      "Ty Chavous",
+      "Will Snopik"
+    ],
+    "Team Claire": [
+      "Ashley Ellis",
+      "Braden Hudgins",
+      "Caden Caffey",
+      "Camp Steiner",
+      "Claire Beisler",
+      "Claire Miksch",
+      "Finn Aspenson",
+      "Gabe Sanchez",
+      "Landrie Alsobrook",
+      "Ony Ramana...",
+      "Rustin Martin",
+      "Sam Townsend",
+      "Will Schloss"
+    ],
+    "Team Davis": [
+      "Aaron Brown",
+      "Clinton Carter",
+      "Ethan Falkensten",
+      "Grace Lam",
+      "Hoss Rahi",
+      "JC Roberts",
+      "Jessica Mattson",
+      "Josh Lindholm",
+      "Khalil Tafni",
+      "Lauren Kohler",
+      "Lauren Mulos",
+      "Marissa Zuniga",
+      "Ryan Hostetler",
+      "Ryan Xu",
+      "Zach Baird"
+    ],
+    "Development": [
+      "Alex Gillam",
+      "Damon Meadows",
+      "Don Nguyen",
+      "Ethan Whitesell",
+      "Michael Kuck",
+      "Robert Lovitt",
+      "Wyatt Evans"
+    ],
+    "Analytics": [
+      "Austin Kang",
+      "Ethan Knapp",
+      "Jacob Aubuchon",
+      "Maria del Mar Valderama",
+      "Red Dailey"
+    ],
+    "Shared Solutions": [
+      "Blake Doerr",
+      "Hunter Martin",
+      "Jake Proffit",
+      "Jason Clink",
+      "Kurt Williams",
+      "Taylor McGill"
+    ],
+    "Archived": [
+      "Ahmad Scott",
+      "Jessie Szczepanski",
+      "Karl Martenson",
+      "Matthew Mattoon",
+      "Reagan Hoback",
+      "Sabey Grady"
+    ]
+  },
+  "enablement_categories": [
+    "Enablement",
+    "Dev Enablement"
+  ]
+}
